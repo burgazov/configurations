@@ -25,6 +25,11 @@ iban:
   apiIbanValidatorEndPoint: "ibanv2.php"
   apikey: "8bce658c82307cd485112226edd2c91b"
   apiFormat: "json"
+settings:
+  file:
+    path: "C:/Users/Vassit/git/config-repo"
+    name: "settings.json"
+    apiFormat: "json"
 ---
 spring:
   profiles: development
@@ -55,3 +60,8 @@ iban:
   apiIbanValidatorEndPoint: "ibanv2.php"
   apikey: "8bce658c82307cd485112226edd2c91b"
   apiFormat: "json"
+settings:
+  file:
+    path: "C:/Users/Vassit/git/config-repo"
+    name: "settings.json"
+    apiFormat: "json"  
