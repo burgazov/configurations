@@ -30,7 +30,7 @@ settings:
   file:
     path: "C:/Users/Vassit/git/config-repo"
     name: "settings.json"
-    apiFormat: "json"
+    apiFormat: "text"
 ---
 spring:
   profiles: development
@@ -66,4 +66,4 @@ settings:
   file:
     path: "C:/Users/Vassit/git/config-repo"
     name: "settings.json"
-    apiFormat: "json"  
+    apiFormat: "xml"  
